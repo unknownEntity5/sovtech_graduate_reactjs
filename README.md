@@ -33,3 +33,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+The deployed version can be accessed on this [link](https://sovtech-graduate-reactjs-unknownentity5.vercel.app/)
+
